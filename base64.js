@@ -22,4 +22,4 @@ function base64encode(input) {
     return encoded;
 }
 
-console.log(base64encode('rawr'));
+console.log(base64encode('a'));
